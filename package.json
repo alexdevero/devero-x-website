@@ -12,7 +12,7 @@
     "ship": "npm run build && npm run export"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "next": "8.1.0",
     "node-sass": "4.12.0",
     "react": "16.8.6",
